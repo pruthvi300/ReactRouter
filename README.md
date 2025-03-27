@@ -20,8 +20,8 @@ A simple React application demonstrating navigation using React Router.
 
 ## Installation 📥
 ```sh
-git clone <your-repo-link>
-cd <your-project-folder>
+git clone [<your-repo-link>](https://github.com/pruthvi300/ReactRouter)
+cd app
 npm install
 npm start
 Then, open http://localhost:3000 in your browser.
