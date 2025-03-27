@@ -19,11 +19,12 @@ A simple React application demonstrating navigation using React Router.
 - Tailwind CSS (for styling)
 
 ## Installation 📥
-```sh
-git clone [<your-repo-link>](https://github.com/pruthvi300/ReactRouter)
+```
+git clone https://github.com/pruthvi300/ReactRouter
 cd app
 npm install
 npm start
+```
 Then, open http://localhost:3000 in your browser.
 
 Usage 📌
